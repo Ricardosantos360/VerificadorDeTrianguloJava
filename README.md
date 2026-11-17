@@ -32,7 +32,7 @@ IMPORTANTE: Para executar o jogo, é necessário ter o Java instalado no computa
 1. Baixe ou clone este repositório.
 2. Verifique se o Java está instalado.
 3. Acesse a pasta `dist` do projeto.
-4. Execute o arquivo `.jar` disponível nessa pasta.
+4. Abaixe e execute o arquivo `.jar` disponível nessa pasta.
 
 **Desenvolvido por Ricardo Araújo Santos**
 
